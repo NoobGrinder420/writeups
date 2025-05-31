@@ -35,11 +35,14 @@ Finally — **after extreme mental effort and many sleepless minutes** — we no
 
 Here is a screenshot of the challenge description where the flag is visible:
 
-![Challenge Description with Flag]("./Screenshot 2025-06-01 at 12.26.13 AM")
+![Challenge Description](./description.png)
+---
+![Highlighted Flag](./flag_highlight.png)
+---
 
 Below is our terminal showing the flag submission:
 
-![Flag Submission Terminal]("./Screenshot 2025-06-01 at 12.26.44 AM.png")
+![Flag Submission Terminal](./flag_submit.png)
 
 ---
 
